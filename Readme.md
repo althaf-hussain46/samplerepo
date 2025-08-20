@@ -21,10 +21,10 @@
 
     ```
     class coding{
-    function name(){
-    echo "hello world";
+    	function name(){
+    		echo "hello world";
 
-    }
+    	}
     }
     ```
     Number1
