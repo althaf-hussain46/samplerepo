@@ -20,14 +20,13 @@
   - Python
 
     ```
-
-    ```
     class coding{
     function name(){
     echo "hello world";
 
     }
     }
+    ```
+    Number1
 
-    1. Number1
-    2. Number2
+    1. Number2
